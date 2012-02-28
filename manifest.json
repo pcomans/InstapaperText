@@ -1,0 +1,17 @@
+{
+ "background_page": "background.html",
+ "browser_action": {
+ "default_icon": "icon-128.png"
+ },
+ "name": "Read with Instapaper",
+ "description": "Instantly view any compatible web page in Instapaper's Text view",
+ "homepage_url": "http://www.philippcomans.de",
+ "icons": {
+     "16": "icon-16.png",
+     "48": "icon-48.png",
+     "128": "icon-128.png" },
+ "permissions": [
+     "tabs"
+ ],
+ "version": "0.1"
+}
