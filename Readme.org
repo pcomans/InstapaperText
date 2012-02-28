@@ -1,4 +1,6 @@
-InstapaperText
+#+TITLE:     InstapaperText
+#+AUTHOR:    Philipp Comans
+#+LANGUAGE:  en
 
 This is a Chrome extension to read a web page in Instapaper's Text
 view.
